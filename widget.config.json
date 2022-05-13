@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkNyESpf6voL",
+  "spaceId": "spczdmQDfBAn5",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "下载所选记录里的所有附件",
+    "en-US": "download all attachments in the record"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "下载所选记录里的所有附件",
+    "en-US": "download all attachments in the record"
+  },
+  "globalPackageId": "wpkyVrnMm6ymP"
+}
